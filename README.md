@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @vina2399
+- 👋 Hi, I’m @vinay2399
 - 💬 Ask me about Python, C/C++, Machine Learning, Data structures & Algorithms, Swift and Problem-Solving.
 - 🌱 I’m currently learning Swift & IOS development .
 - ⚡ Fun fact: I like to code💻, cook and eat.
